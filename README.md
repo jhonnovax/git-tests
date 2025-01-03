@@ -1,2 +1,2 @@
 # Git Tests
-Git tests to understand features and process 
+Git tests to understand features and process  
